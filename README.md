@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AleTorres2k
+- 👋 Hi, I’m Alejandro.
 - 👀 I’m interested in learning all days new things.
 - 🌱 I’m currently learning to develop multiplatform applications.
 
