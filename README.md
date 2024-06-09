@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alejandro.
-- 👀 I’m interested in learning all days new ideas.
+- 👀 I’m interested in learning all days new concepts.
 - 🌱 I’m currently learning to develop mobile applications.
 
 <!---
