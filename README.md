@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alejandro.
 - 👀 I’m interested in learning all days new concepts.
-- 🌱 I’m currently learning to develop mobile applications.
+- Software web and mobile developer.
 
 <!---
 AleTorres2k/AleTorres2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
